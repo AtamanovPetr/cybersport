@@ -90,7 +90,7 @@ body {
 }
 .main {
   height: 1000px;
-  background: url(img/bg.png) center center no-repeat;
+  background: url(bg.png) center center no-repeat;
   padding-top: 50px;
 }
 .main-header {
