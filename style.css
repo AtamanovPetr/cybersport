@@ -290,7 +290,7 @@ body {
   }
   .main {
     height: 800px;
-    background: url(../img/main/bg-2.png) center center no-repeat;
+    background: url(bg-2.png) center center no-repeat;
   }
   .subtitle,
   .subtitle-arrow {
@@ -342,7 +342,7 @@ body {
     padding-left: 20px;
   }
   .main {
-    background: url(../img/main/bg-3.png) center center no-repeat;
+    background: url(bg-3.png) center center no-repeat;
   }
   .main-content {
     width: 95%;
@@ -360,7 +360,7 @@ body {
 }
 @media (max-width: 360px) {
   .main {
-    background: url(../img/main/bg-4.png) center center no-repeat;
+    background: url(bg-4.png) center center no-repeat;
   }
   .main-content small {
     font-size: 14px;
