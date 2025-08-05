@@ -119,6 +119,9 @@ body {
 }
 .main-header .header-logo {
   margin-right: auto;
+  background: url(Logo.png);
+  width: 152px;
+  height: 61px;
 }
 .main-header .header-reg {
   margin-left: auto;
